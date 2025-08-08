@@ -1,6 +1,6 @@
 ## Olá pessoal! 👋
 - 📗 Economista, ingressando no mundo da programação
-- 🌎 Atualmente no curso de Node JS na plataforma da DIO 
+- 🌎 Aprendendo desenvolvimento web
 - 👯 Tenho interesse em adquirir novos conhecimentos e participar de projetos
 
 <!--
