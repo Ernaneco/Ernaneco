@@ -1,6 +1,6 @@
 ## Hello, World! 👋
 - 📗 Economist, learning to program
-- 🌎 Learning web development with the Odin Project
+- 🌎 Learning C#
 - 👯 Objective of fulfilling the freeCodeCamp Certified Full Stack Developer Curriculum
 
 <!--
